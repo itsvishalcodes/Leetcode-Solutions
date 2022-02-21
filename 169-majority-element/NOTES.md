@@ -1,0 +1,1 @@
+If the element is more than n/2 times and it always exists, we can simply sort the array and get the middle element, it would always be majority
