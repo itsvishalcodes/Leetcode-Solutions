@@ -8,6 +8,7 @@ public:
     for(int i=0; i< query_row; i++) {
       for(int it=0; it <= i; it++) {
         flow = (fractionFilled[i][it] - 1.0) / 2.0;
+        fractionFilled[i][it] = 1;
         if(flow > 0) {
           fractionFilled[i+1][it] += flow;
           fractionFilled[i+1][it+1] += flow;
