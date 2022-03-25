@@ -3,8 +3,9 @@ public:
   double calc(double x, int n) {
     if(n==0) return 1;
     if(n==1) return x;
+    if(n==2) return x*x;
     
-    double soln = pow(calc(x, n/2), 2);
+    double soln = calc(calc(x, n/2), 2);
     if(n%2) return soln*x;
     return soln;
   }
