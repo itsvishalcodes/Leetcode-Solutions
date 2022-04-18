@@ -11,18 +11,20 @@
  */
 class Solution {
 public:
-  vector<int> pre;
+  int soln;
+  
   void util(TreeNode* root, int& k) {
     if(!root) return;
     
     util(root->left, k);
-    pre.push_back(root->val);
+    if(--k == 0) {
+      soln = root->val;
+    }
     util(root->right, k);
-    
   }
+  
   int kthSmallest(TreeNode* root, int k) {
-    util(root, k);  
-    
-    return pre[k-1];
+    util(root, k);
+    return soln;
   }
 };
