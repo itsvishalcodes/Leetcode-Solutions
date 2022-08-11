@@ -11,11 +11,12 @@
  */
 class Solution {
 public:
-  bool isValidBST(TreeNode* root, long long int sbGreater = LLONG_MIN, long long int sbSmaller = LLONG_MAX) {
-    // cout<<INT_MIN<<endl<<INT_MAX<<endl;
+  bool isValidBST(TreeNode* root, long long int largest = LLONG_MIN, long long int smallest = LLONG_MAX) {
     if(!root) return true;
-    if(root->val <= sbGreater or root->val >= sbSmaller) return false;
     
-    return isValidBST(root->left, sbGreater, root->val) and isValidBST(root->right, root->val, sbSmaller);
+    if(root->val <= largest or root->val >= smallest) return false;
+    
+    return isValidBST(root->left, largest, root->val) and isValidBST(root->right, root->val, smallest);
+    
   }
 };
