@@ -11,27 +11,33 @@
 class Solution {
 public:
   void reorderList(ListNode* head) {
-    stack<ListNode*> st;
-    ListNode *slow=head, *fast=head, *itr=head;
-    while(fast && fast->next) {
+    ListNode *slow=head, *fast=head->next;
+    while (fast && fast->next) {
       slow = slow->next;
       fast = fast->next->next;
     }
-    if(fast) slow = slow->next;
-    itr = slow;
-    while(itr) {
-      st.push(itr);
-      itr = itr->next;
+    ListNode *itr1=head, *itr2=slow->next, *prev = nullptr;
+    slow->next = nullptr;
+    while(itr2) {
+      ListNode *tmp = itr2->next;
+      itr2->next = prev;
+      prev = itr2;
+      itr2 = tmp;
     }
-    itr = head;
-    while(!st.empty()) {
-      ListNode* nxt = itr->next;
-      itr->next = st.top();
-      itr->next->next = nxt;
-      itr = nxt;
-      st.pop();
+    itr2 = prev;
+    
+    ListNode *itr1Tmp=itr1, *itr2Tmp=itr2; 
+    while(itr1) {
+      itr1Tmp = itr1->next;
+      if(itr2) {
+        itr2Tmp = itr2->next;
+        itr2->next = itr1->next;
+      }
+      itr1->next = itr2;
+      itr1 = itr1Tmp;
+      itr2 = itr2Tmp;
     }
-    itr->next = nullptr;
+
     return;
   }
 };
