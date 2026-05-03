@@ -7,6 +7,7 @@ All my submitted Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -14,6 +15,7 @@ All my submitted Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -50,4 +52,8 @@ All my submitted Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
