@@ -27,6 +27,7 @@ All my submitted Leetcode Solutions
 | [0217-contains-duplicate](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0567-permutation-in-string](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ All my submitted Leetcode Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0567-permutation-in-string](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@ All my submitted Leetcode Solutions
 | [0011-container-with-most-water](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0567-permutation-in-string](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +99,5 @@ All my submitted Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
