@@ -41,6 +41,7 @@ All my submitted Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0567-permutation-in-string](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -92,6 +93,7 @@ All my submitted Leetcode Solutions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
