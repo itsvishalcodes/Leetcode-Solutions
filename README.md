@@ -15,6 +15,7 @@ All my submitted Leetcode Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@ All my submitted Leetcode Solutions
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -99,5 +101,14 @@ All my submitted Leetcode Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/itsvishalcodes/Leetcode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
